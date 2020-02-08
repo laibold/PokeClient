@@ -1,0 +1,4 @@
+export const SET_BOOSTERPACKS = "SET_BOOSTERPACK";
+export const SET_DETAIL_CARD = "SET_DETAIL_CARD";
+export const SET_CARDS = "SET_CARDS";
+export const SET_FILTERED_CARDS = "SET_FILTERED_CARDS";

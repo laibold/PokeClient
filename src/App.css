@@ -1,0 +1,47 @@
+
+h1 {
+    font-size: 40px;
+    font-family: 'Press Start 2P', monospace;
+}
+
+h2 {
+    font-size: 32px;
+    font-family: 'Press Start 2P', monospace;
+}
+
+h3 {
+    font-size: 24px;
+    font-family: 'Press Start 2P', monospace;
+}
+
+h4 {
+    font-size: 20px;
+}
+
+h5, label {
+    font-size: 16px;
+    font-family: 'Press Start 2P', monospace;
+}
+
+h6 {
+    font-size: 8px;
+    font-family: 'Press Start 2P', monospace;
+}
+
+p, ul, li {
+    font-size: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:visited {
+    color: black;
+}
+
+button {
+    font-family: 'Press Start 2P', monospace;
+    font-size: 16px;
+}
